@@ -52,7 +52,7 @@ Remote OK provides a public JSON API endpoint that allows structured job data ex
 
 ---
 
-## 2️⃣ Adzuna
+## Adzuna
 
 **Website:** https://www.adzuna.com  
 **Developer API:** https://developer.adzuna.com  
@@ -97,7 +97,7 @@ Adzuna provides an official developer API that allows structured job data retrie
 
 ---
 
-# ⚙️ Technologies Used
+# Technologies Used
 
 - Python  
 - Requests  
@@ -107,7 +107,7 @@ Adzuna provides an official developer API that allows structured job data retrie
 
 ---
 
-# 🧹 Data Cleaning Process
+#  Data Cleaning Process
 
 The following cleaning steps were applied:
 
@@ -124,7 +124,7 @@ The following cleaning steps were applied:
 
 ---
 
-# 📊 Dataset Size
+#  Dataset Size
 
 Each dataset contains:
 
@@ -140,7 +140,7 @@ Collected using Python scripts during the project development period.
 
 ---
 
-# 🎯 Project Objective
+#  Project Objective
 
 The purpose of this project is to:
 
@@ -152,6 +152,6 @@ The purpose of this project is to:
 
 ---
 
-# 📌 Disclaimer
+# Disclaimer
 
 All data was collected using publicly available APIs in accordance with platform accessibility at the time of collection. The dataset is intended for academic and research purposes only.
