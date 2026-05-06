@@ -1,6 +1,6 @@
 # 📊 HR Job Data Collection Project
 
-## 📌 Project Overview
+##  Project Overview
 
 This project focuses on collecting and analyzing Human Resource (HR) job postings from online job platforms using Python and public APIs.
 
@@ -8,9 +8,9 @@ The objective was to gather **1,000 structured HR-related job observations**, cl
 
 ---
 
-# 🌍 Data Sources
+#  Data Sources
 
-## 1️⃣ Remote OK
+## Remote OK
 
 **Website:** https://remoteok.com  
 **API Endpoint:** https://remoteok.com/api  
@@ -134,7 +134,7 @@ Each dataset contains:
 
 ---
 
-# 📅 Data Collection Date
+#  Data Collection Date
 
 Collected using Python scripts during the project development period.
 
