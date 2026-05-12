@@ -6,7 +6,7 @@ This project focuses on collecting and analyzing Human Resource (HR) job posting
 
 The objective was to gather **1,000 structured HR-related job observations**, clean the data, and export it into a CSV dataset suitable for analysis.
 
--
+
 
 #  Data Sources
 
